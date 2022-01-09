@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I am a beginner ruby web developer (backend).\
+💻 &nbsp;I am a beginner ruby web developer.\
 💡 &nbsp;I'm passionate about distributed systems, high-load system design, algorithms, and data structures.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Compiler Theory, and Cloud Architecture.\
 ✉️ &nbsp;Feel free to contact me anytime you want it, I'll make sure to respond as soon as I can.\
@@ -13,7 +13,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Ruby](https://img.shields.io/badge/-Ruby-272822?style=flat&logo=ruby)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-272822?style=flat&logo=linux)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-272822?style=flat&logo=ruby)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-272822?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-272822?style=flat&logo=linux)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-272822?style=flat&logo=html5)&nbsp;
@@ -32,8 +33,9 @@
 
 <p align="left">
 <a href="https://vk.com/alexanderpeak"><img src="https://img.shields.io/badge/-Alexander%20Vershinin-1877F2?style=flat&logo=vk&logoColor=white"/></a>
-<a href="https://t.me/AlexanderPeak1"><img src="https://img.shields.io/badge/-@AlexanderPeak1-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://leetcode.com/AlexanderPeak"><img src="https://img.shields.io/badge/-@AlexanderPeak-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+<a href="https://t.me/AlexanderPeak1"><img src="https://img.shields.io/badge/-AlexanderPeak1-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://leetcode.com/AlexanderPeak"><img src="https://img.shields.io/badge/-AlexanderPeak-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/Alex_Peak"><img src="https://img.shields.io/badge/-AlexanderPeak-272822?style=flat&logo=codewars&logoColor=orange"/></a>
 </p>
 
 <!--
