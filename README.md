@@ -33,7 +33,7 @@
 
 <p align="left">
 <a href="https://vk.com/vershininalexander"><img src="https://img.shields.io/badge/-Alexander%20Vershinin-1877F2?style=flat&logo=vk&logoColor=white"/></a>
-<a href="https://t.me/alexandervershinin1"><img src="https://img.shields.io/badge/-AlexanderPeak1-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/alexandervershinin1"><img src="https://img.shields.io/badge/-alexandervershinin1-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://leetcode.com/AlexanderPeak"><img src="https://img.shields.io/badge/-AlexanderPeak-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/Alex_Peak"><img src="https://img.shields.io/badge/-AlexanderPeak-272822?style=flat&logo=codewars&logoColor=orange"/></a>
 </p>
